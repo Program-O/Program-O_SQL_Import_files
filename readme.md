@@ -11,3 +11,7 @@ The bot_id is set to '1'
 aiml.sql
 --------
 This file contains the standard ALICE AIML set converted into SQL format ready to import into the aiml table in the Program-O Database
+
+learn-aiml.sql
+--------------
+MySQL dummp of the learn.aiml (Squarebears version)
